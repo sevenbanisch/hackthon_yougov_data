@@ -19,7 +19,7 @@ Dort arbeite ich an der Vorbereitung des Hackathons. Die Skripte könnt ihr ansc
 Das ist eure Spielwiese! Liegt euch in ./hackthon einen Ordnerin eurem Namen an. Kopiert euch NBs, auf denen ihr aufbauen wollte hier rein und los geht’s.
 
 ### ./private:
-Dies ist ein Ordner, der nicht synchronisiert wird. D.h. ihr seht ihn nicht. Ich würde aber empfehlen, euch lokal diesen Ordner anzulegen. Ich benutze ihn beispielsweise, um eigene Analysen und Resultate zu speichern und aufzubereiten.
+Dies ist ein Ordner, der **nicht synchronisiert** wird. D.h. ihr seht ihn nicht. Ich würde aber empfehlen, euch lokal diesen Ordner anzulegen. Ich benutze ihn beispielsweise, um eigene Analysen und Resultate zu speichern und aufzubereiten.
 
 
 ## Was gibt es schon?
