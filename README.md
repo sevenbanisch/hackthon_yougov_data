@@ -35,7 +35,7 @@ Dieses NB liest den Gesamtdatensatz ein und gibt einen Überblick über die Län
 ***Dieses script kann nicht ausgeführt werden***. Ich verwende es, um Sub-Datensätze für die einzelnen Länder zu erstellen und dann im **./data** Ordner zu speichern. Diese Sub-Datensätze stehen also zur Verfügung.
 
 ### inspection.ipynb:
-Hier habe ich bisher vor allem für die Deutschen Daten geschaut, mit was wir es eigentlich zu tun haben und was Fragen/Trends sein könnten, die wir in Gruppenarbeit unter die Lupe nehmen wollen.
+Hier habe ich bisher vor allem für die Deutschen Daten geschaut, mit was wir es eigentlich zu tun haben und was Fragen/Trends sein könnten, die wir in Gruppenarbeit unter die Lupe nehmen wollen. Auch die zeitliche Auflösung der Daten (was wird wann und wie oft gefragt) wird darin ersichtlich.
 
 ### weitere Skripte:
 Die weiteren beiden Skripte sind noch etwas wild, aber man kann sie ausprobieren. In fourtimeperiods.ipynb such ich nach einer sinnvollen zeitlichen Einteilung (Aggregation) und in correlations.ipynb exploriere ich die generelle Struktur der Korrelationen.
