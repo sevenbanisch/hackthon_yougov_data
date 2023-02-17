@@ -5,7 +5,7 @@ Am 24. und 25. Februar finden wir uns in einem Seminar zusammen, in dem wir Umfr
 ## Struktur des Repositories
 
 ### ./data: 
-Dort liegen die Daten und dort speichern wir Daten (z.B. ausgewählte Slices  nach Zeit oder Land). Wichtig zu wissen: die Originaldaten sind 750 MB groß und liegen nicht dort. Derzeit stelle ich zwei Subdatensätze zur Verfügung: alle Daten jeweils für Deutschland und die UK.
+Dort liegen die Daten und dort speichern wir Daten (z.B. ausgewählte Slices  nach Zeit oder Land). Wichtig zu wissen: **die Originaldaten sind 750 MB groß und liegen nicht dort.** Derzeit stelle ich zwei Subdatensätze zur Verfügung: alle Daten jeweils für Deutschland und die UK.
 
 Enthält derzeit:
 - all_countries_numerical_germany.csv
