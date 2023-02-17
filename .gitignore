@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 # ignore folders
-data/*
+#data/*
 private/*
 #html/*
 
