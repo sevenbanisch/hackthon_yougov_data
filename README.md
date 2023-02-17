@@ -16,7 +16,7 @@ Enthält derzeit:
 Dort arbeite ich an der Vorbereitung des Hackathons. Die Skripte könnt ihr anschauen, ausprobieren (nicht das NB **splitdatabycountry.ipynb**). Siehe unten bei „Was gibt es schon?“. Wichtig: falls ihr in den NBs (neue) Dinge ausprobieren wollt, legt euch bitte einen eigenen Ordner mit eurem Namen an. Siehe nächster Punkt.
 
 ### ./hackathon/euer_name:
-Das ist eure Spielwiese! Liegt euch in **./hackthon** einen Ordnerin eurem Namen an. Kopiert euch NBs, auf denen ihr aufbauen wollte hier rein und los geht’s.
+Das ist eure Spielwiese! Liegt euch in **./hackthon** einen Ordner in eurem Namen an. Kopiert euch NBs, auf denen ihr aufbauen wollte hier rein und los geht’s.
 
 ### ./private:
 Dies ist ein Ordner, der **nicht synchronisiert** wird. D.h. ihr seht ihn nicht. Ich würde aber empfehlen, euch lokal diesen Ordner anzulegen. Ich benutze ihn beispielsweise, um eigene Analysen und Resultate zu speichern und aufzubereiten.
