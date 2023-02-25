@@ -138,3 +138,6 @@ private/*
 
 # Pickle files
 *.pickle
+
+# Stupid lock files...
+*.xlsx#
